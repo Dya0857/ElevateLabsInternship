@@ -17,9 +17,7 @@ To discover open ports in the local network using TCP SYN scan and understand th
 
 ## 📁 Files Included
 - `scan_result.txt` – Raw Nmap output
-- `screenshots/` – Visual proof of scan
-- `report.md` – Risk analysis & summary (optional)
-
+- `Task 1.pdf` – Visual proof of scan
 ## 🧠 Key Learnings
 - Importance of network reconnaissance
 - Security risks from open ports like Telnet, SMB, MySQL
