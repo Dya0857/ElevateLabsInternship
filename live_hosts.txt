@@ -1,0 +1,7 @@
+# Nmap 7.95 scan initiated Mon Aug  4 21:04:49 2025 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -sn -oN live_hosts.txt 192.168.1.0/24
+Nmap scan report for 192.168.1.1
+Host is up (0.0089s latency).
+MAC Address: 78:8C:B5:E4:1F:D8 (TP-Link Limited)
+Nmap scan report for 192.168.1.102
+Host is up.
+# Nmap done at Mon Aug  4 21:04:52 2025 -- 256 IP addresses (2 hosts up) scanned in 2.75 seconds
