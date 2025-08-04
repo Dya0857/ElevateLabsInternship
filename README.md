@@ -16,7 +16,7 @@ To discover open ports in the local network using TCP SYN scan and understand th
 6. Saved scan output in `scan_result.txt`.
 
 ## 📁 Files Included
-### `Task 1/` - Folder for Task 1
+### `Task 1` - Folder for Task 1
 - `scan_result.txt` – Raw Nmap output
 - `Task 1.pdf` – Visual proof of scan
 ## 🧠 Key Learnings
