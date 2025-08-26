@@ -30,7 +30,7 @@ Understand what makes a password strong and test it using password strength tool
   - Best practices learned
   - Common password attacks
   - Explanation of password complexity and security impact
-- `screenshots/` – Screenshots of password strength tests
+  - screenshots/ – Screenshots of password strength tests
 
 ---
 
