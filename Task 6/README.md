@@ -40,5 +40,3 @@ Understand what makes a password strong and test it using password strength tool
 - Password managers and 2FA add additional layers of protection.
 
 ---
-
-## 📂 Repository Structure
