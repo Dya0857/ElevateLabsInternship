@@ -26,7 +26,7 @@ Identify potentially harmful browser extensions and remove them to enhance secur
   - Findings
   - Risks of malicious extensions
   - Best practices
-- `screenshots/` – Proof of extension review process
+  - screenshots – Proof of extension review process
 
 ---
 
